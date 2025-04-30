@@ -27,6 +27,8 @@
     filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+
+
 @keyframes logo-spin {
     from {
         transform: rotate(0deg);
@@ -57,18 +59,4 @@
     gap: 10px;
 }
 
-.repository {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    border: 3px solid white;
-    border-radius: 10px;
-    list-style-type: none;
-    max-width: 500px;
-    padding-block: 20px;
-    padding-inline: 10px;
-}
 
-textarea{
-    width: 400px;
-}
